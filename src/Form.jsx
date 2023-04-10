@@ -112,7 +112,7 @@ function Form({ setFormSubmit }) {
       <input
         className="bg-sky-400 text-white p-2 rounded-md block mt-4 mb-2 mx-auto"
         type="submit"
-        value="singup"
+        value="sign up"
       />
     </form>
   );
